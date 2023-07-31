@@ -38,3 +38,7 @@
 
 // Bonus 2 - Promise all
 // ...
+
+
+
+//COMO ESTÁN LOS MÁQUINAS
